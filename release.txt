@@ -1,0 +1,9 @@
+Added option for BASIC HTTP aut for SOAP and HTTP Message Brokers
+Added support for comments in test-run CSV files (the # character comments out a line)
+Added ActionCommand for performing XML schema validation
+Added MessageBuilderCommand to build a new message from the last incoming message message using XSLT 
+Improved support for extensions (node_editors_ex.xml, project_actions_ex.xml and project_menus_ex.xml)
+Removed all known GUI bugs
+Removed the "SOAP envelope template" bug
+Removed the JDBC data provider "first line lost" bug
+Removed the "Condition Node" bug
